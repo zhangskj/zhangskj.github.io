@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "A7YWCZ9RQG.com.tjf.miyouapp",
+        "paths": [
+          "/miyou/*"
+        ]
+      },
+      {
+        "appID": "697GLTC7Z6.com.store.hwapp.miyouApp",
+        "paths": [
+          "/miyou/*"
+        ]
+      },
+      {
+        "appID": "697GLTC7Z6.com.xjbg.test.project",
+        "paths": [
+          "/tykjvaluation/*"
+        ]
+      }
+    ]
+  }
+}
